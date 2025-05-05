@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected_images</folder>
+	<filename>no.1b20927a-29bc-11f0-a0f6-d843ae9d83c4.jpg</filename>
+	<path>C:\Users\Admin\Desktop\impo\Projects\Sign Language Detaction\workspace\images\collected_images\no.1b20927a-29bc-11f0-a0f6-d843ae9d83c4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>73</ymin>
+			<xmax>626</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

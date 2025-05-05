@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collected_images</folder>
+	<filename>thanks.0819a9e1-29bc-11f0-89c4-d843ae9d83c4.jpg</filename>
+	<path>C:\Users\Admin\Desktop\impo\Projects\Sign Language Detaction\workspace\images\collected_images\thanks.0819a9e1-29bc-11f0-89c4-d843ae9d83c4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank you</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>214</ymin>
+			<xmax>640</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>
